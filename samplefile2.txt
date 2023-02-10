@@ -1,1 +1,3 @@
 this is my code for the second file done by karthik
+
+Testing git reset commit 2
